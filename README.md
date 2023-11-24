@@ -5,3 +5,5 @@ The tumor grading of patients suffering from soft-tissue sarcomas is a critical 
 <p align="center">
   <img src="./GloLo-GCN.png" width="800"/>
 </p>
+
+Source code will be made publicly available upon accept/reject notification.
